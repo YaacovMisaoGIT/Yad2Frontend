@@ -19,7 +19,7 @@ function Main() {
 
 useEffect(() => {
 const fetchCars = async () => {
-  let url = 'api/cars';
+  let url = 'api/carData';
 
   // filtering parameters to the URL
   if (selectedManufacturer !== '') {
