@@ -131,7 +131,7 @@ const FilterMain = ({
 
         <div className="advanced_search">
           <button className="advanced_searchbutton" >
-            Advanced Search &#10011;
+            Advanced Searches &#10011;
           </button>
         </div>
         <div className="search-button-container">
