@@ -136,7 +136,7 @@ const FilterMain = ({
         </div>
         <div className="search-button-container">
           <button className="allpurpose_button" onClick={handleSearch}>
-            Search &#x26B2;
+           &#x26B2;
           </button>
         </div>
 
